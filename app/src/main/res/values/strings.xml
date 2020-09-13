@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">intent</string>
+    <string name="areas_tv_rectangle">Rectangle</string>
+    <string name="areas_tv_trangle">Trangle</string>
+    <string name="areas_bt_calculate">Return</string>
+    <string name="rectangle_tv_rectangle_wight">Wight</string>
+    <string name="rectangle_tv_rectangle_height">Height</string>
+    <string name="rectangle_bt_calculate">Calculate</string>
+    <string name="trangle_tv_rectangle_wight">Wight</string>
+    <string name="trangle_tv_rectangle_height">Height</string>
+    <string name="trangle_bt_calculate">Calculate</string>
+
+</resources>
